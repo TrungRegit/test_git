@@ -1,2 +1,4 @@
-this change line 1
+this is first content
 this is second content
+this is conflict
+this is my content
