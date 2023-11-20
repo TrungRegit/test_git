@@ -1,9 +1,2 @@
-content
-
-
-branch master
-
 edited content
-
-
-branch create_conflict
+this is edited content
