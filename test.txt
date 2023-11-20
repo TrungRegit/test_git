@@ -2,3 +2,8 @@ content
 
 
 branch master
+
+edited content
+
+
+branch create_conflict
