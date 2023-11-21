@@ -2,3 +2,4 @@ this is first content
 this is second content
 this is conflict
 this is my content
+This is new content of hoangnh
