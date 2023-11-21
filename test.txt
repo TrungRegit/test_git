@@ -1,4 +1,5 @@
-this is change content
-this is edited content
-change file text
+this is first content
+this is second content
+this is conflict
+this is my content
 test hoang
