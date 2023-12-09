@@ -2,3 +2,6 @@ this is change content
 this is edited content
 change file text
 test hoang
+this is first content
+this is second content
+this is conflict
