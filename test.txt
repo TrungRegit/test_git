@@ -7,6 +7,9 @@ this is second content new 2
 this is conflict
 this is first content
 this is second content
+this is first content
+this is second content new 2
+this is conflict
 this is my content
 test hoang
 commit 1
